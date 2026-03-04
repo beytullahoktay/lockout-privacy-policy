@@ -18,7 +18,7 @@ Developer:
 **Beytullah Oktay**
 
 Contact:
-[hello@ikatexa.com](mailto:hello@ikatexa.com)
+[hello@kraftexa.com](mailto:hello@kraftexa.com)
 
 ---
 
@@ -97,7 +97,7 @@ Users are encouraged to review this policy periodically.
 
 If you have any questions regarding this Privacy Policy, you may contact:
 
-[hello@ikatexa.com](mailto:hello@ikatexa.com)
+[hello@kraftexa.com](mailto:hello@kraftexa.com)
 
 ---
 
